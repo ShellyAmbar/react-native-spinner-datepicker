@@ -1,8 +1,8 @@
 {
   "name": "react-native-spinner-datepicker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "- A react native custom component of dynamic spinner Datepicker, with initial date and animated scroll to it's position. the spinner is implemented as 3 animated wheels effect.",
-  "main": "index.js",
+  "main": "spinner-datepicker/spinner-date-picker.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

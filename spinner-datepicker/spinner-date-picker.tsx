@@ -22,7 +22,6 @@ const SpinnerDatePicker = ({
     const day = initialDate?.getDate();
     const month = initialDate?.getMonth();
     const year = initialDate?.getFullYear();
-    console.log(day, month, year);
 
     setselectedDay(day ? day : 1);
     setselectedMonth(month ? month + 1 : 0);
@@ -35,7 +34,7 @@ const SpinnerDatePicker = ({
         month: "short",
       });
     });
-    console.log("months", months);
+
     return months;
   };
 
