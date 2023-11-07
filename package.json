@@ -6,6 +6,26 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Shelly Ambar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShellyAmbar/react-native-spinner-datepicker.git"
+  },
+  "keywords": [
+    "spinner",
+    "datepicker",
+    "picker",
+    "date-picker",
+    "wheel-picker",
+    "wheel",
+    "date",
+    "wheel-datepicker",
+    "spinner-datepicker",
+    "spinner-date-picker"
+  ],
+  "bugs": {
+    "url": "https://github.com/ShellyAmbar/react-native-spinner-datepicker/issues"
+  },
+  "homepage": "https://github.com/ShellyAmbar/react-native-spinner-datepicker#readme"
 }
